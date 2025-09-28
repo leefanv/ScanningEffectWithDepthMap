@@ -174,19 +174,19 @@ const Html = () => {
             }}
           >
             <div className="flex space-x-2 lg:space-x-6 overflow-hidden">
-              {'Embrace Nature’s Rhythm'.split(' ').map((word, index) => {
+              {/* {'Embrace Nature’s Rhythm'.split(' ').map((word, index) => {
                 return (
                   <div data-title key={index}>
                     {word}
                   </div>
                 );
-              })}
+              })} */}
             </div>
           </div>
 
           <div className=" text-center text-xs md:text-xl xl:text-2xl 2xl:text-3xl mt-2 overflow-hidden">
             <div data-desc>
-              <div>where one endless road leads to an uncertain future.</div>
+              {/* <div>where one endless road leads to an uncertain future.</div> */}
             </div>
           </div>
         </div>
